@@ -35,7 +35,7 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 ## Projects
 | Project   | Description | Technologies |
 |---        |---         |---           |
-|[ukfs_automation - Front End](https://github.com/kurianvijay/ukfs_automation)| Automation tests for 'Getting a Quote for a customer', part of the internship at LSI. | `Selenium Webdriver` `Eclipse` `Java`|
+|[ukfs_automation - Front End](https://github.com/kurianvijay/ukfs_automation)| Automation test scripts for the 'Get a Quote' page, part of the internship at LSI. | `Selenium Webdriver` `Eclipse` `Java`|
 | [SportsMatch - Front End](https://github.com/kurianvijay/sportsmatch_react) [SportsMatch - Back End](https://github.com/kurianvijay/sportsmatch_api) | The final team project for Makers. The app actually consists of two seperate apps, a Flask - Python API backend and a React - Javascript frontend | `React` `Javascript` `Flask` `Python` `Pytest/Cypress` `Heroku` `Travis CI` `Circle CI`|
 | [Acebook](https://github.com/kurianvijay/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |`Rails` `RSpec/Capybara` `Postgres` `Heroku` `Travis CI`|
 |[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |`Ruby` `Sinatra` `RSpec` `Javascript` `Jasmine` `Heroku` `Travis CI`|
