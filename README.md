@@ -66,9 +66,7 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 ## Experience
 
 **[Digitech London Ltd](https://www.webdigi.co.uk/)** (February 2019 &mdash; March 2020)
-**Juniour Tester - Intern**
-
-
+**Junior Tester - Intern**
 
 **[Edge360 Ltd](https://edge360.co.uk/)** (April 2015 &mdash; January 2019)   
 **Product Owner and Monetisation Manager**
