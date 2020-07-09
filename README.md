@@ -16,7 +16,7 @@
 
 </div>
 
-I am a dynamic and ambitious Software Testing Engineer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
+I am a dynamic and ambitious Software Test Engineer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
 Throughout my experience at Webdigi and Makers Academy, I have understood the importance of standardised working practices for example in coding and this is my biggest priority in looking for my next role. I would love to work in a committed and supportive team, where these practices are adhered to.
 
