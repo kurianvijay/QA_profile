@@ -64,7 +64,7 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 ## Experience
 
 **[ERP Training & Solutions Ltd](https://www.webdigi.co.uk/)** (January 2020 &mdash; June 2020)
-**Software Developer In Test - Internship**
+**Software Developer In Test, Internship**
 
 Currently working on testing a new feature for GIC World Ltd (an ERP client) range of solutions, a new inventory management system.
 
@@ -91,7 +91,7 @@ Currently working on testing a new feature for GIC World Ltd (an ERP client) ran
 • Documenting test results, bug reporting and verifying traceability matrix. A clear ability to strengthen organisational processes, collate, assess and report on management data, deliver against an organisational plan and assist with steering a company to realise its strategic objectives
 
 **[Digitech London Ltd](https://www.webdigi.co.uk/)** (January 2020 &mdash; June 2020)
-**Software Quality Assurance Tester (Manual) - Internship**
+**Software Quality Assurance Tester (Manual), Internship**
 
 • Assisting product owners in elaborating the acceptance criteria for user stories
 
@@ -117,7 +117,7 @@ Currently working on testing a new feature for GIC World Ltd (an ERP client) ran
 
 • Actively following developments in the agile testing landscape and maintaining an up to date skill set
 
-**[Edge360 Ltd](https://edge360.co.uk/)** (April 2015 &mdash; January 2019)   
+**[Edge360 Ltd](https://edge360.co.uk/)** (April 2015 &mdash; March 2019)   
 **Product Owner and Monetisation Manager**
 
 I was responsible for the delivery of all ad-campaigns from end to end. Making sure KPIs from the clients were met and getting client feedback on adjuting the eCPA. To facilitate this we decided to create apps that would be able to target the audiences that we were looking for specifically.
