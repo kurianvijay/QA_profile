@@ -77,19 +77,17 @@ Currently working on testing a new feature for GIC World Ltd (an ERP client) ran
 
 • Responsible for API testing using POSTMAN
 
-• Defect triaging and working closely with 3rd parties, development team, Business analyst and solution architects
+• Defect triaging and working closely with development team, business analysts and solution architects
 
-• Experience in writing, Test Scenarios, Test Cases, Test Scripts, Test metrics, test execution reports, estimations and writing basic queries for backed testing (SQL)
+• Experience in writing, Test Scenarios, Test Cases, Test Scripts, Test metrics, Test execution reports, estimations and writing basic queries for backed testing (SQL)
 
 • Experience in UAT, Functional Testing, End 2 End Testing, System Testing, Black Box Testing, Re-testing and Regression Testing
 
-• Demonstrable mobile testing experience with iOS and Android operating systems
-
 • Responsible for performing Cross Browser Testing using Selenium WebDriver
 
-• Working as part of a scrum team in an agile environment and regularly communicate with team members. This enables better understanding of the developed functionality and improves the testing quality of the product
+• Working as part of a scrum team in an agile environment and regularly communicating with team members enabling better understanding of the developed functionality and improving the testing quality of the product
 
-• Ability to work closely with developers in reproducing and isolating problems and coordinate with developers to communicate test results and resolve defects
+• Ability to work closely with developers in reproducing and isolating problems and coordinating with developers to communicate test results and resolve defects
 
 • Good understanding of defect and maintenance process, raising defects, analysing logged defects, assigning, tracking to closure, documenting cause of defect and reporting
 
@@ -127,7 +125,7 @@ Currently working on testing a new feature for GIC World Ltd (an ERP client) ran
 
 I was responsible for the delivery of all ad-campaigns from end to end. Making sure KPIs from the clients were met and getting client feedback on adjuting the eCPA. To facilitate this we decided to create apps that would be able to target the audiences that we were looking for specifically.
 
-As part of my role, I acted as the Product Owner for 2 apps that we released AppsFarm in `Java` and GlobalEduOnline on `iOS Swift`. I was responsible for translating business requirments into user stories and trouble shooting the app from a business perspective and bringing bugs that came up from test launches back to development. I was involved in manual testing of the apps as well.
+As part of my role, I acted as the Product Owner and QA for 2 apps that we released AppsFarm in `Java` and GlobalEduOnline on `iOS Swift`. I was responsible for translating business requirments into user stories and trouble shooting the app from a business perspective and bringing bugs that came up from test launches back to development. I was heavily involved in UAT testing of the apps.
 
 **[Heathrow Airport Ltd](https://www.heathrow.com/company)** (January 2011 &mdash; March 2017)   
 **Training and Compliance Officer**
