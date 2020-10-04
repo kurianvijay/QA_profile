@@ -71,15 +71,25 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 
 Currently working on testing a new feature for GIC World Ltd (an ERP client) range of solutions, a new inventory management system.
 • Involved in building automation framework from scratch with Selenium WebDriver POM framework in Java.
+
 • Responsible for API testing using POSTMAN
+
 • Defect triaging and working closely with 3rd parties, development team, Business analyst and solution architects.
+
 • Experience in writing, Test Scenarios, Test Cases, Test Scripts, Test metrics, test execution reports, estimations and writing basic queries for backed testing (SQL).
+
 • Experience in UAT, Functional Testing, End 2 End Testing, System Testing, Black Box Testing, Re-testing and Regression Testing.
+
 • Demonstrable mobile testing experience with iOS and Android operating systems.
-• Responsible for performing Cross Browser Testing using Selenium WebDriver
+
+• Responsible for performing Cross Browser Testing using Selenium WebDriver.
+
 • Working as part of a scrum team in an agile environment and regularly communicate with team members. This enables better understanding of the developed functionality and improves the testing quality of the product.
-• Ability to work closely with developers in reproducing and isolating problems and coordinate with developers to communicate test results and resolve defects
+
+• Ability to work closely with developers in reproducing and isolating problems and coordinate with developers to communicate test results and resolve defects.
+
 • Good understanding of defect and maintenance process, raising defects, analysing logged defects, assigning, tracking to closure, documenting cause of defect and reporting.
+
 • Documenting test results, bug reporting and verifying traceability matrix. A clear ability to strengthen organisational processes, collate, assess and report on management data, deliver against an organisational plan and assist with steering a company to realise its strategic objectives.
 
 **[Digitech London Ltd](https://www.webdigi.co.uk/)** (January 2020 &mdash; June 2020)
