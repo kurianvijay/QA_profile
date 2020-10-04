@@ -76,11 +76,9 @@ SCM	: Github
 **[ERP Training & Solutions Ltd](https://www.webdigi.co.uk/)** (June 2020 &mdash; September 2020)
 **Software Developer In Test Internship**
 
-Currently working on testing a new feature for GIC World Ltd (an ERP client) range of solutions, a new inventory management system.
+Worked on testing a new feature for GIC World Ltd (an ERP client), a new inventory management system.
 
 • Involved in building automation framework from scratch with Selenium WebDriver POM framework in Java
-
-• Responsible for API testing using POSTMAN
 
 • Defect triaging and working closely with development team, business analysts and solution architects
 
