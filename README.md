@@ -43,9 +43,6 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 
 ## Education
 
-**[London School of Informatics](http://www.lsi.ac/)** (May &mdash; June 2020)
-**Software Testing and Automation**
-
 **[Makers Academy](https://www.makers.tech)** (August &mdash; December 2019)   
 **Software Development**
 
