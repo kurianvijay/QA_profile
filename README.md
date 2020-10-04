@@ -29,7 +29,13 @@ Edge360 branched out into app development about 18 months after we started as we
 One of my main areas of responsibility at Edge360 was product management and testing which meant most of my time was spent with the development team. My job was to clarify the requirements of the business around various functionalities that the team was being asked to implement for the apps i.e clarifying user stories etc.
 A lot of times I found myself more drawn to the code and how this impacted various functions while and how it was working and I sent quite a few questions on the code itself, at times perhaps unnecessarily, to my developers. I loved the problem solving aspect of coding and how one problem could have multiple solutions. I started to attempt coding challenges on code-wars and courses on thefreecodecamp.com in my already limited free time and found that I enjoyed them immensely. With support from my wife, a tester herself, I decided to take the plunge in early 2019 and haven't looked back since.
 
-Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python, Bootstrap, PostgreSQL, Agile ways of working & pair programming
+Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, PostgreSQL, Gherkin, BDD, Agile ways of working & pair programming
+Productivity Tools : Selenium WebDriver, RubyMine, IntelliJ IDEA, JIRA, JUnit, Cucumber, Postman, BrowserStack, Appium, TestRail
+Methodologies :	Agile & Scrum, Waterfall and V-Model
+Testing Techniques :	API Testing, Smoke and Sanity Testing, Regression Testing, System Testing, Functional Testing, GUI Testing, User Acceptance Testing, Automation Testing, BDD
+Database Tools	MySQL, Postgres
+SCM	Git
+
 
 
 ## Projects
@@ -59,12 +65,11 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 **[IHM Goa](https://ihmgoa.gov.in/)** (March 2000 &mdash; April 2003)   
 **BSc(Honours), Hospitality and Hotel Management** 2:1           
 
-- Co‐founder and Vice President, Leadership and Marketing Club, IHM Goa
 
 ## Experience
 
 **[ERP Training & Solutions Ltd](https://www.webdigi.co.uk/)** (June 2020 &mdash; September 2020)
-**Software Developer In Test** Internship
+**Software Developer In Test Internship**
 
 Currently working on testing a new feature for GIC World Ltd (an ERP client) range of solutions, a new inventory management system.
 
@@ -91,7 +96,7 @@ Currently working on testing a new feature for GIC World Ltd (an ERP client) ran
 • Documenting test results, bug reporting and verifying traceability matrix. A clear ability to strengthen organisational processes, collate, assess and report on management data, deliver against an organisational plan and assist with steering a company to realise its strategic objectives
 
 **[Digitech London Ltd](https://www.webdigi.co.uk/)** (January 2020 &mdash; June 2020)
-**Software Quality Assurance Tester (Manual), Internship**
+**Software Quality Assurance Tester Internship**
 
 • Assisting product owners in elaborating the acceptance criteria for user stories
 
