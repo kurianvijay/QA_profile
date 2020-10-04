@@ -64,7 +64,7 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 ## Experience
 
 **[ERP Training & Solutions Ltd](https://www.webdigi.co.uk/)** (January 2020 &mdash; June 2020)
-**Software Developer In Test, Internship**
+**Software Developer In Test** Internship
 
 Currently working on testing a new feature for GIC World Ltd (an ERP client) range of solutions, a new inventory management system.
 
