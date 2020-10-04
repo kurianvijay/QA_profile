@@ -132,8 +132,8 @@ As part of my role, I acted as the Product Owner and QA for 2 apps that we relea
 
 - Delivery and development of training packages on aviation security management for Airport Security Managers and Airport Managers
 
-## Hobbies
+## Interests
 
-I am a keen badminton doubles player having played upto senior level at University.
-Table Tennis is another passion of mine.
+I am an avid Table Tennis player and am always looking for players to compete against.
+
 Meditation - I have started practicing meditation since my time in Makers and I find a simple 10 minute daily session refreshes me.
