@@ -18,7 +18,7 @@
 
 I am a dynamic and ambitious Software Test Engineer, keen to enter the world of tech in a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
-Throughout my experience at Webdigi and Makers Academy, I have understood the importance of standardised working practices for example in coding and this is my biggest priority in looking for my next role. I would love to work in a committed and supportive team, where these practices are adhered to.
+Throughout my experience at ERP, Webdigi and Makers Academy, I have understood the importance of standardised working practices for example in coding and this is my biggest priority in looking for my next role. I would love to work in a committed and supportive team, where these practices are adhered to.
 
 In the last 10 years I've had 2 jobs and I started the second job midway through my first job. To clarify I co-founded Edge360(www.edge360.co.uk), a digital mobile ad-serving company, in 2015 along with 2 of my friends. I did this while working full time at the Heathrow airport T5 training department where we, a 17 strong team, were in charge of training just over 1500 members of staff.
 
@@ -27,7 +27,7 @@ Edge360 branched out into app development about 18 months after we started as we
 #### Why I want to be a QA?
 
 One of my main areas of responsibility at Edge360 was product management and testing which meant most of my time was spent with the development team. My job was to clarify the requirements of the business around various functionalities that the team was being asked to implement for the apps i.e clarifying user stories etc.
-A lot of times I found myself more drawn to the code and how this impacted various functions while and how it was working and I sent quite a few questions on the code itself, at times perhaps unnecessarily, to my developers. I loved the problem solving aspect of coding and how one problem could have multiple solutions. I started to attempt coding challenges on code-wars and courses on thefreecodecamp.com in my already limited free time and found that I enjoyed them immensely. With support from my wife, a tester herself, I decided to take the plunge in early 2019 and haven't looked back since.
+A lot of times I found myself more drawn to the code and how this impacted various functions while and how it was working and I sent quite a few questions on the code itself, at times perhaps unnecessarily, to my developers. I loved the problem solving aspect of coding and how one problem could have multiple solutions. I started to attempt coding challenges on code-wars and courses on thefreecodecamp.com in my already limited free time and found that I enjoyed them immensely. With support from my wife, a software tester herself, I decided to take the plunge in early 2019 and haven't looked back since.
 
 Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, PostgreSQL, Gherkin, BDD, Agile ways of working & pair programming
 Productivity Tools : Selenium WebDriver, RubyMine, IntelliJ IDEA, JIRA, JUnit, Cucumber, Postman, BrowserStack, Appium, TestRail
