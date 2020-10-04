@@ -42,9 +42,9 @@ SCM	Git
 | Project   | Description | Technologies |
 |---        |---         |---           |
 |[ukfs_automation - Front End](https://github.com/kurianvijay/ukfs_automation)| Automation test scripts for the 'Get a Quote' page, part of the internship at LSI. | `Selenium Webdriver` `Eclipse` `Java`|
-| [SportsMatch - Front End](https://github.com/kurianvijay/sportsmatch_react) [SportsMatch - Back End](https://github.com/kurianvijay/sportsmatch_api) | The final team project for Makers. The app actually consists of two seperate apps, a Flask - Python API backend and a React - Javascript frontend | `React` `Javascript` `Flask` `Python` `Pytest/Cypress` `Heroku` `Travis CI` `Circle CI`|
-| [Acebook](https://github.com/kurianvijay/acebook-facebuzz) |The Acebook platform is an engineering project working with a client mirroring some functionality of Facebook. The project is built in Ruby on Rails project |`Rails` `RSpec/Capybara` `Postgres` `Heroku` `Travis CI`|
-|[MakersBnB](https://github.com/domtunstill/makersBnB) | The MakersBnB platform project working mirroring some functionality of AirBnB. The project is built in Ruby on Rails project |`Ruby` `Sinatra` `RSpec` `Javascript` `Jasmine` `Heroku` `Travis CI`|
+| [AmazonCheckoutAutomation](https://github.com/kurianvijay/AmazonCheckoutAutomation) | This is one of my initial attempts at automating a checkout process using a new language for me, Java. It is a work in progress and the next step will be to implement a POM framework into it for scalability. | `Java` `Cucumber` `Gherkin` `Selenium Webdriver`|
+| [TescoCheckoutAutomation](https://github.com/kurianvijay/TescoCheckoutAutomation) |This is an automation of a Tesco online shopping shopping cart uptil checkoutis completed.  |`Java` `Cucumber` `Gherkin` `Selenium Webdriver`|
+|[instaAut](https://github.com/kurianvijay/instaAut) | Automation of the registration process for Instagram. It is my first attempt at doing this for a social media platform. The vision for the complete project is that the aumation can be completed all the way through to 3rd party email validation. |`Java` `Cucumber` `Gherkin` `Selenium Webdriver`|
 
 
 ## Education
