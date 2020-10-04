@@ -70,42 +70,54 @@ Tech Skills : Ruby, Rails, Sinatra, HTML, CSS, JavaScript, jQuery, React, Python
 **Software Developer In Test - Internship**
 
 Currently working on testing a new feature for GIC World Ltd (an ERP client) range of solutions, a new inventory management system.
-• Involved in building automation framework from scratch with Selenium WebDriver POM framework in Java.
+
+• Involved in building automation framework from scratch with Selenium WebDriver POM framework in Java
 
 • Responsible for API testing using POSTMAN
 
-• Defect triaging and working closely with 3rd parties, development team, Business analyst and solution architects.
+• Defect triaging and working closely with 3rd parties, development team, Business analyst and solution architects
 
-• Experience in writing, Test Scenarios, Test Cases, Test Scripts, Test metrics, test execution reports, estimations and writing basic queries for backed testing (SQL).
+• Experience in writing, Test Scenarios, Test Cases, Test Scripts, Test metrics, test execution reports, estimations and writing basic queries for backed testing (SQL)
 
-• Experience in UAT, Functional Testing, End 2 End Testing, System Testing, Black Box Testing, Re-testing and Regression Testing.
+• Experience in UAT, Functional Testing, End 2 End Testing, System Testing, Black Box Testing, Re-testing and Regression Testing
 
-• Demonstrable mobile testing experience with iOS and Android operating systems.
+• Demonstrable mobile testing experience with iOS and Android operating systems
 
-• Responsible for performing Cross Browser Testing using Selenium WebDriver.
+• Responsible for performing Cross Browser Testing using Selenium WebDriver
 
-• Working as part of a scrum team in an agile environment and regularly communicate with team members. This enables better understanding of the developed functionality and improves the testing quality of the product.
+• Working as part of a scrum team in an agile environment and regularly communicate with team members. This enables better understanding of the developed functionality and improves the testing quality of the product
 
-• Ability to work closely with developers in reproducing and isolating problems and coordinate with developers to communicate test results and resolve defects.
+• Ability to work closely with developers in reproducing and isolating problems and coordinate with developers to communicate test results and resolve defects
 
-• Good understanding of defect and maintenance process, raising defects, analysing logged defects, assigning, tracking to closure, documenting cause of defect and reporting.
+• Good understanding of defect and maintenance process, raising defects, analysing logged defects, assigning, tracking to closure, documenting cause of defect and reporting
 
-• Documenting test results, bug reporting and verifying traceability matrix. A clear ability to strengthen organisational processes, collate, assess and report on management data, deliver against an organisational plan and assist with steering a company to realise its strategic objectives.
+• Documenting test results, bug reporting and verifying traceability matrix. A clear ability to strengthen organisational processes, collate, assess and report on management data, deliver against an organisational plan and assist with steering a company to realise its strategic objectives
 
 **[Digitech London Ltd](https://www.webdigi.co.uk/)** (January 2020 &mdash; June 2020)
 **Software Quality Assurance Tester (Manual) - Internship**
 
 • Assisting product owners in elaborating the acceptance criteria for user stories
+
 • Confirming testability of any development effort up front with developers before code is written
+
 • Collaborating with developers over unit tests for correctness and coverage
+
 • Perform full functionality testing of new features being added during each sprint
+
 • Have complete knowledge of product, to enable writing of complete test cases for testing the requirements, edge cases and negative test scenarios
+
 • Execute test cases on different web browsers, operating systems and devices
+
 • Reporting bug efficiently to provide better context for their resolution by a developer
+
 • Testing complete functionality during each sprint from the end user's perspective
+
 • Testing integration of third-party services
+
 • Sharing insights and knowledge with the team to maximize productivity
+
 • Providing input for backlog grooming and scoring; actively participating in team meetings & standups
+
 • Actively following developments in the agile testing landscape and maintaining an up to date skill set
 
 **[Edge360 Ltd](https://edge360.co.uk/)** (April 2015 &mdash; January 2019)   
