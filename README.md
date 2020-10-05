@@ -39,7 +39,7 @@ Testing Techniques :	API Testing, Smoke and Sanity Testing, Regression Testing, 
 
 Database Tools :	MySQL, Postgres
 
-SCM	: Github
+SCM	: Github, Gitlab
 
 
 
